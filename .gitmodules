@@ -1,0 +1,10 @@
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "website/themes/paper"]
+	path = website/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "website/public"]
+	path = website/public
+	url = https://github.com/pik10/website.git
+	branch = main
