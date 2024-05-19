@@ -3,6 +3,14 @@ languageCode = 'en-us'
 title = 'My Website'
 theme = "paper"
 
+# needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+#  [markup.highlight]
+#    lineNos = true
+
 [menu]
 
   [[menu.main]]
@@ -15,3 +23,12 @@ theme = "paper"
     name = "Contact"
     url = "/contact/"
     weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"    
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-4HD6K6WR57'
