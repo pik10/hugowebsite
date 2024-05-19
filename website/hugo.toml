@@ -19,6 +19,11 @@ theme = "paper"
     url = "/about/"
     weight = 10
   [[menu.main]]
+    identifier = "aviation"
+    name = "Aviation"
+    url = "/categories/aviation/"
+    weight = 10
+  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
