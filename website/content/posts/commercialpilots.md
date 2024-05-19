@@ -1,4 +1,6 @@
 +++
+categories = ['Aviation']
+tags = ['Aviation', 'Commercial Pilot']
 title = 'Commercial Pilots'
 date = 2024-05-18T15:18:31-04:00
 +++
