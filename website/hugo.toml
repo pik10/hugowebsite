@@ -1,4 +1,4 @@
-baseURL = 'https://networkpx.com/'
+baseURL = 'https://www.networkpx.com/'
 languageCode = 'en-us'
 title = 'My Website'
 theme = "paper"
