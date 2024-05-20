@@ -44,7 +44,3 @@ tag = "tags"
  [privacy.youtube]
     disabled = false
     privacyEnhanced = true
-
-[services]
-  [services.googleAnalytics]
-    ID = 'G-4HD6K6WR57'
