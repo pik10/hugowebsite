@@ -25,9 +25,9 @@ enableRobotsTXT = false
     url = "/about/"
     weight = 10
   [[menu.main]]
-    identifier = "aviation"
-    name = "Aviation"
-    url = "/categories/aviation/"
+    identifier = "category"
+    name = "Category"
+    url = "/categories/"
     weight = 10
   [[menu.main]]
     identifier = "contact"
