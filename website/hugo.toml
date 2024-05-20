@@ -37,8 +37,7 @@ enableRobotsTXT = false
 
 [taxonomies]
 category = "categories"
-tag = "tags"
-series = "series"    
+tag = "tags"   
 
 [privacy]
  
