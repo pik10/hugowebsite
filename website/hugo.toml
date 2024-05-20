@@ -15,7 +15,7 @@ theme = "paper"
 #  [markup.highlight]
 #    lineNos = true
 
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [menu]
 
