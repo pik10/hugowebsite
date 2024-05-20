@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'My Website'
 theme = "paper"
 
+[params]
+ 
+  bio = 'Information about aviation and technology'
+
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
 [markup]
   [markup.goldmark]
@@ -33,6 +37,12 @@ theme = "paper"
 category = "categories"
 tag = "tags"
 series = "series"    
+
+[privacy]
+ 
+ [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
 
 [services]
   [services.googleAnalytics]

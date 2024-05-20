@@ -1,8 +1,7 @@
 +++
 title = "Contact"
-description = "Hugo, the world's fastest framework for building websites"
+description = "NetworkPX Contact"
 date = "2024-05-17"
-aliases = ["about-us", "about-hugo", "contact"]
 author = "Peter"
 +++
 
