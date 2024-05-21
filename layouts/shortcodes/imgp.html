@@ -1,0 +1,6 @@
+{{ $image := resources.GetMatch (.Get "imageurl" ) }}
+{{ $image := $image.Resize "700x Lanczos" }}
+
+{{ with $image }}
+ <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+{{ end }}
