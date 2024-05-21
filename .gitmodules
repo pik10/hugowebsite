@@ -1,7 +1,5 @@
+
+
 [submodule "themes/paper"]
 	path = themes/paper
 	url = https://github.com/pik10/hugo-paper
-[submodule "website/themes/paper"]
-	path = website/themes/paper
-	url = https://github.com/pik10/hugo-paper
-
