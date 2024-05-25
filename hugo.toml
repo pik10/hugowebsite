@@ -1,6 +1,6 @@
 baseURL = 'https://www.networkpx.com/'
 languageCode = 'en-us'
-title = 'My Website'
+title = 'NetworkPX'
 theme = "paper"
 
 [params]
