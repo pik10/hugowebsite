@@ -4,7 +4,6 @@ date = 2024-05-23T20:23:57-04:00
 categories = ['Aviation']
 description = "Part 91.205 regulation lists equipment that is required for an aircraft to be legal"
 +++
-
 ## ATOMATOFLAMES
 
 Part 91.205 regulation specifies the required equipment for an aircraft to be legal.

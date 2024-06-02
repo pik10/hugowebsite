@@ -1,11 +1,20 @@
 baseURL = 'https://www.networkpx.com/'
 languageCode = 'en-us'
 title = 'NetworkPX'
-theme = "paper"
+theme = "PaperMod"
+
+enableRobotsTXT = false
+enableInlineShortcodes = true
+enableEmoji = true
 
 [params]
- 
-  bio = 'Information about aviation and technology'
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowToc = true
+  TocOpen = true
+  ShowRssButtonInSectionTermList = true
+  ShowCodeCopyButtons = true
+
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
 [markup]
@@ -15,7 +24,8 @@ theme = "paper"
 #  [markup.highlight]
 #    lineNos = true
 
-enableRobotsTXT = false
+[outputs]
+  home = [ "HTML", "RSS", "JSON" ]
 
 [menu]
 
@@ -23,7 +33,7 @@ enableRobotsTXT = false
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 10
+    weight = 5
   [[menu.main]]
     identifier = "category"
     name = "Category"
@@ -33,6 +43,11 @@ enableRobotsTXT = false
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
+    weight = 10
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
     weight = 10
 
 [taxonomies]
