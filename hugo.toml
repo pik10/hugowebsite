@@ -8,6 +8,7 @@ enableInlineShortcodes = true
 enableEmoji = true
 
 [params]
+  description = "Technology and aviation information"
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowToc = true
