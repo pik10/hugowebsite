@@ -9,7 +9,7 @@ enableEmoji = true
 
 [params]
   description = "Technology and aviation information"
-  ShowReadingTime = true
+  ShowReadingTime = false
   ShowPostNavLinks = true
   ShowToc = true
   TocOpen = true
