@@ -60,4 +60,4 @@ tag = "tags"
  
  [privacy.youtube]
     disabled = false
-    privacyEnhanced = true
+    privacyEnhanced = false
