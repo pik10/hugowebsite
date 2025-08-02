@@ -17,6 +17,7 @@ enableEmoji = true
   ShowCodeCopyButtons = true
   ShowPageNums = true
   social = true
+  comments = true
 
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
