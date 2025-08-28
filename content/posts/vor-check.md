@@ -1,9 +1,9 @@
 +++
 title = 'VOR Check'
 date = 2025-08-27T22:58:53-04:00
-description: "A step-by-step guide to performing a VOR check to ensure accurate navigation in aviation."
-tags: ["aviation", "navigation", "VOR", "pilot training"]
-categories: ["Flight Training"]
+description = "A step-by-step guide to performing a VOR check to ensure accurate navigation in aviation."
+tags = ["aviation", "navigation", "VOR", "pilot training"]
+categories = ["Flight Training"]
 +++
 
 
